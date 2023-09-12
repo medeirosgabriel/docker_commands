@@ -1,5 +1,9 @@
 ## **Docker Commands - Study**
 
+## **Imagens**
+- #### sudo docker build -t <IMAGE_NAME> . -> Deve estar no diretório do Dockerfile
+- #### sudo docker run -it <IMAGE_NAME> -> Sobe um container da imagem passada
+
 ## **Containers**
 
 - #### sudo docker container run -p 8080:80 nginx -> Executa container na porta 8080
