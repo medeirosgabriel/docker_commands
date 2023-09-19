@@ -3,6 +3,7 @@
 ## **Imagens**
 - #### sudo docker build -t <IMAGE_NAME> . -> Deve estar no diretório do Dockerfile
 - #### sudo docker run -it <IMAGE_NAME> -> Sobe um container da imagem passada
+- #### sudo docker rmi $(sudo docker images -q) -> Exclui todas as imagens
 
 ## **Containers**
 
