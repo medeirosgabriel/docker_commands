@@ -29,7 +29,7 @@ docker rename – Renames an existing container.
 docker restart – Restarts a container that is running or stopped.
 docker rm – Removes one or more containers.
 docker rmi – Removes one or more images.
-docker run – Executes a command in a new container.
+docker run – Runs a command in a new container, pulling the image if needed and starting the container.
 docker save – Saves the image to a .tar file.
 docker search – Searches for an image in Docker Hub.
 docker service – Management of Docker services.
