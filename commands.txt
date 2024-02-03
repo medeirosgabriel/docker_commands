@@ -1,0 +1,46 @@
+docker attach – Access inside the container and work from it.
+docker build – Using instructions from a Dockerfile, I can create an image.
+docker commit – Creates an image from a container.
+docker cp – Copies files or directories from the container to the host.
+docker create – Creates a new container.
+docker diff – Displays changes made to the container’s filesystem.
+docker events – Displays container events in real time.
+docker exec – Executes an instruction inside the container that is running without needing to attach it to it.
+docker export – Exports a container to a .tar file.
+docker history – Displays the history of commands that were executed within the container.
+docker images – Lists the images available on the host.
+docker import – Imports a .tar image to the host.
+docker info – Displays information about the host.
+docker inspect – Display the json with all container configurations.
+docker kill – Poweroff the container.
+docker load – Loads the image from a .tar file.
+docker login – Register or log in to a registry server.
+docker logout – Logs out of a registry server.
+docker logs – Displays the logs of a container.
+docker port – Opens a host and container port.
+docker network – Docker network management.
+docker node – Management of Docker Swarm nodes.
+docker pause – Pauses the container.
+docker port – Lists the mapped ports of a container.
+docker ps – Lists all containers.
+docker pull – Pulls an image from a registry server.
+docker push – Pushes an image from a registry server.
+docker rename – Renames an existing container.
+docker restart – Restarts a container that is running or stopped.
+docker rm – Removes one or more containers.
+docker rmi – Removes one or more images.
+docker run – Executes a command in a new container.
+docker save – Saves the image to a .tar file.
+docker search – Searches for an image in Docker Hub.
+docker service – Management of Docker services.
+docker start – Starts a stopped container.
+docker stats – Displays CPU, memory and network usage information.
+docker stop – Stops a container that is running.
+docker swarm – Clustering of applications in an orchestration of several containers, applications together.
+docker tag – Tags an image to the repository.
+docker top – Displays the processes running in a container.
+docker unpause – Starts a container that is paused.
+docker update – Updates the configuration of one or more containers.
+docker version – Displays the API, Client and Server versions of the host.
+docker volume – Management of volumes in Docker.
+docker wait – Waits for the execution of a container to return to start that container.
