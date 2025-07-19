@@ -1,6 +1,8 @@
 ## **Docker Commands - Study**
 
 ## **Images**
+- #### List All Images
+  ```sudo docker image ls```
 - #### Build a docker image from a Dockerfile located in the current directory (by default).
   ```sudo docker build -t <IMAGE_NAME> .```
 - #### Uploads a container from the passed image
